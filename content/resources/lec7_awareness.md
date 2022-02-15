@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture presentation on the neural basis of perceptual awareness.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/9-71-functional-mri-of-high-level-vision-fall-2007/8cff1bfa5154a98df747ae9bb22f2440_lec7_awareness.pdf
+file: /media/courses/9-71-functional-mri-of-high-level-vision-fall-2007/8cff1bfa5154a98df747ae9bb22f2440_lec7_awareness.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: "The Neural basis of Perceptual Awareness or Perceptual Representation vs.\
   \ Perceptual Awareness: What\u2019s the Difference?"
