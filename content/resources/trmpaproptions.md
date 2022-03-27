@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bb3f4e4a-824d-68ed-cafc-c6d9b2e84559
 resourcetype: Document
 title: Term Paper Options
 uid: 49bcf965-7c6e-1ef6-b2ea-a6320928d3a4

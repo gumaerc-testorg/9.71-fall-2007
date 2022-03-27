@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 49e64858-2af7-b4c8-55e7-4278ef551112
 resourcetype: Document
 title: Face perception and the FFA
 uid: d785ff62-6e49-a47e-3fcd-52e20fc8f467

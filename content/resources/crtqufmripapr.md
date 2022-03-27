@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bb3f4e4a-824d-68ed-cafc-c6d9b2e84559
 resourcetype: Document
 title: Some Tips on How to Critically Evaluate fMRI Studies
 uid: 8e6dd364-6575-0d78-6f04-26cb175f59ad

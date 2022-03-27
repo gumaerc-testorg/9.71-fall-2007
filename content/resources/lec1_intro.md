@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 49e64858-2af7-b4c8-55e7-4278ef551112
 resourcetype: Document
 title: fMRI of High-level Vision
 uid: 484d80b0-eddc-696e-1d63-86342cd9df0e

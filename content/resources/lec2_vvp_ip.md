@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 49e64858-2af7-b4c8-55e7-4278ef551112
 resourcetype: Document
 title: Introduction to the Ventral Visual Pathway
 uid: 06b4c65f-d7f2-9cd4-21c9-78570dcb6035

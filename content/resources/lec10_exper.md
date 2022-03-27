@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 49e64858-2af7-b4c8-55e7-4278ef551112
 resourcetype: Document
 title: Effect of Experience on Extrastriate Cortex
 uid: 8b14ff75-3ba0-567d-4e08-b74d2662aedf
