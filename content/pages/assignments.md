@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: bb3f4e4a-824d-68ed-cafc-c6d9b2e84559
 ---
@@ -17,27 +18,27 @@ The Table below lists the Presentation topics.
 Instructions for Paper Presentation
 -----------------------------------
 
-How to present a paper ([PDF]({{< baseurl >}}/resources/presentingpaper))
+How to present a paper ({{< resource_link 64ee4ab5-1307-fed3-e595-219cd9dab48c "PDF" >}})
 
 Instructions for Paper Critique
 -------------------------------
 
-How to critically evaluate fMRI studies ([PDF]({{< baseurl >}}/resources/crtqufmripapr))
+How to critically evaluate fMRI studies ({{< resource_link 8e6dd364-6575-0d78-6f04-26cb175f59ad "PDF" >}})
 
 Instructions for Term Paper
 ---------------------------
 
-How to write a review article and propose a novel experiment ([PDF]({{< baseurl >}}/resources/trmpaproptions))
+How to write a review article and propose a novel experiment ({{< resource_link 49bcf965-7c6e-1ef6-b2ea-a6320928d3a4 "PDF" >}})
 
 Instructions for Final Project
 ------------------------------
 
-How to make presentations on experiment proposals and literature reviews ([PDF]({{< baseurl >}}/resources/finalprojects))
+How to make presentations on experiment proposals and literature reviews ({{< resource_link 90f34906-f26f-fb40-27d1-84f0901aef22 "PDF" >}})
 
 Student Work
 ------------
 
-([PDF]({{< baseurl >}}/resources/difrntalactivton)) (Courtesy of MIT student. Used with permission.)
+({{< resource_link 907618c4-96ac-1e0f-cd59-8a42e9fd16c6 "PDF" >}}) (Courtesy of MIT student. Used with permission.)
 
 {{< tableopen >}}
 {{< theadopen >}}
