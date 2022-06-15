@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: This section provides links to online references, a list of useful reading
+  resources, and the schedule of readings by lecture session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
-parent_uid: null
 title: Readings
 uid: e6a2a149-dd29-a2ac-7569-334398605141
 ---
