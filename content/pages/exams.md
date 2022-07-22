@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This section provides a set of examples of the kinds of things that the
+  instructor expects you to know. This is not an exhaustive list of everything that
+  you might be tested on.
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: 8f5bd17b-50b6-d85e-2d89-0c50d5e6257c
 ---
