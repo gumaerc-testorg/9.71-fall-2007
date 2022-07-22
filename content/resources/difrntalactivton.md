@@ -6,6 +6,7 @@ file: /courses/9-71-functional-mri-of-high-level-vision-fall-2007/907618c496ac1e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Differential Activation by Convex and Concave Stimuli in Human Parahippoc
 uid: 907618c4-96ac-1e0f-cd59-8a42e9fd16c6
 ---
 Example of student work: Differential Activation by Convex and Concave Stimuli in Human Parahippocampal Cortex and Lateral Occipital Cortex.
-

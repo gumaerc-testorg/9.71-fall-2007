@@ -8,6 +8,7 @@ file: /courses/9-71-functional-mri-of-high-level-vision-fall-2007/484d80b0eddc69
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: fMRI of High-level Vision
 uid: 484d80b0-eddc-696e-1d63-86342cd9df0e
 ---
 Lecture presentation on functional magnetic resonance imaging (fMRI), a very simple fMRI experiment, the impact of fMRI on cognitive neuroscience, some examples of cool findings from fMRI, the fMRI "BOLD" signal, basic experimental design, localization of function, and high-level vision.
-

@@ -7,6 +7,7 @@ file: /courses/9-71-functional-mri-of-high-level-vision-fall-2007/7b4f608c82a5be
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: The Problem of Object Recognition and The Lateral Occipital Complex (LOC)
 uid: 7b4f608c-82a5-bef9-b02a-77ae69f7a8d6
 ---
 Lecture presentation featuring a demo of an fMRI scan, discussion of the problem of object recognition, what is entailed computationally, the Lateral occipital complex (LOC), and a few tips on doing presentations.
-

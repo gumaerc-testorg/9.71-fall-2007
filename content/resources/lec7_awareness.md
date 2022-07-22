@@ -5,6 +5,7 @@ file: /courses/9-71-functional-mri-of-high-level-vision-fall-2007/8cff1bfa5154a9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "The Neural basis of Perceptual Awareness or Perceptual Representation vs
 uid: 8cff1bfa-5154-a98d-f747-ae9bb22f2440
 ---
 Lecture presentation on the neural basis of perceptual awareness.
-

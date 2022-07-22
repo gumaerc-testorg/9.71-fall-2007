@@ -6,6 +6,7 @@ file: /courses/9-71-functional-mri-of-high-level-vision-fall-2007/06b4c65fd7f29c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Introduction to the Ventral Visual Pathway
 uid: 06b4c65f-d7f2-9cd4-21c9-78570dcb6035
 ---
 Lecture presentation on the ventral visual pathway, experimental design, and data analysis.
-
