@@ -3,6 +3,7 @@ content_type: resource
 description: 'Example of student work: Differential Activation by Convex and Concave
   Stimuli in Human Parahippocampal Cortex and Lateral Occipital Cortex.'
 file: /courses/9-71-functional-mri-of-high-level-vision-fall-2007/907618c496ac1e0fcd598a42e9fd16c6_difrntalactivton.pdf
+file_size: 123141
 file_type: application/pdf
 learning_resource_types:
 - Assignments
