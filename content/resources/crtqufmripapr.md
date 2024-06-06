@@ -2,6 +2,7 @@
 content_type: resource
 description: Guidelines on how to critically evaluate fMRI studies.
 file: /courses/9-71-functional-mri-of-high-level-vision-fall-2007/8e6dd36465750d786f0426cb175f59ad_crtqufmripapr.pdf
+file_size: 30440
 file_type: application/pdf
 learning_resource_types:
 - Assignments

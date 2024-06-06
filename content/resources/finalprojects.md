@@ -3,6 +3,7 @@ content_type: resource
 description: Guidelines on how to make presentations on experiment proposals and literature
   reviews for the course.
 file: /courses/9-71-functional-mri-of-high-level-vision-fall-2007/90f34906f26ffb4027d184f0901aef22_finalprojects.pdf
+file_size: 24684
 file_type: application/pdf
 learning_resource_types:
 - Assignments

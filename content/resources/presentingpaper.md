@@ -2,6 +2,7 @@
 content_type: resource
 description: Guidelines on how to present a paper for the course.
 file: /courses/9-71-functional-mri-of-high-level-vision-fall-2007/64ee4ab51307fed3e595219cd9dab48c_presentingpaper.pdf
+file_size: 39411
 file_type: application/pdf
 learning_resource_types:
 - Assignments
