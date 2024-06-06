@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on the ventral visual pathway, experimental design,
   and data analysis.
 file: /courses/9-71-functional-mri-of-high-level-vision-fall-2007/06b4c65fd7f29cd421c978570dcb6035_lec2_vvp_ip.pdf
+file_size: 2428576
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

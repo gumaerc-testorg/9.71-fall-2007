@@ -3,6 +3,7 @@ content_type: resource
 description: 'Guidelines on the two options available for the term paper of the course:
   I) writing a review article, and ii) proposing a novel experiment.'
 file: /courses/9-71-functional-mri-of-high-level-vision-fall-2007/49bcf9657c6e1ef6b2eaa6320928d3a4_trmpaproptions.pdf
+file_size: 40906
 file_type: application/pdf
 learning_resource_types:
 - Assignments
