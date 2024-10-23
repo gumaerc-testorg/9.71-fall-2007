@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture presentation featuring a demo of an fMRI scan, discussion of
   the problem of object recognition, what is entailed computationally, the Lateral
   occipital complex (LOC), and a few tips on doing presentations.
-file: /courses/9-71-functional-mri-of-high-level-vision-fall-2007/7b4f608c82a5bef9b02a77ae69f7a8d6_lec3_recogn_ip.pdf
+file: /ol-ocw-studio-app/courses/9-71-functional-mri-of-high-level-vision-fall-2007/7b4f608c82a5bef9b02a77ae69f7a8d6_lec3_recogn_ip.pdf
 file_size: 1261730
 file_type: application/pdf
 learning_resource_types:
