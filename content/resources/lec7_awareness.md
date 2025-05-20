@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on the neural basis of perceptual awareness.
-file: /ol-ocw-studio-app/courses/9-71-functional-mri-of-high-level-vision-fall-2007/8cff1bfa5154a98df747ae9bb22f2440_lec7_awareness.pdf
+file: /courses/9-71-functional-mri-of-high-level-vision-fall-2007/8cff1bfa5154a98df747ae9bb22f2440_lec7_awareness.pdf
 file_size: 1592767
 file_type: application/pdf
 learning_resource_types:

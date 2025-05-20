@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on the effects of experience on visual and extrastriate
   cortex.
-file: /ol-ocw-studio-app/courses/9-71-functional-mri-of-high-level-vision-fall-2007/8b14ff753ba0567d4e08b74d2662aedf_lec10_exper.pdf
+file: /courses/9-71-functional-mri-of-high-level-vision-fall-2007/8b14ff753ba0567d4e08b74d2662aedf_lec10_exper.pdf
 file_size: 997277
 file_type: application/pdf
 learning_resource_types:
