@@ -12,16 +12,16 @@ uid: e6a2a149-dd29-a2ac-7569-334398605141
 Online Resources
 ----------------
 
-[Information About fMRI Methods, fMRI Physics, and Neuroanatomy](http://psychology.uwo.ca/fmri4newbies/)
+{{% resource_link "8661df12-ba3e-46b0-b290-2284529e05fa" "Information About fMRI Methods, fMRI Physics, and Neuroanatomy" %}}
 
-[Useful Slides on fMRI Physics and Methods](http://www.biac.duke.edu/education/courses/fall05/fmri/)
+{{% resource_link "0ecb3345-5704-4ea2-998c-e3875c0f0628" "Useful Slides on fMRI Physics and Methods" %}}
 
 Useful Reading Resources
 ------------------------
 
 Huettel, Scott A., Allen W. Song, and Gregory McCarthy. _Functional Magnetic Resonance Imaging_. Sunderland, MA: Sinauer Associates, 2004. ISBN: 9780878932887.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262062381) Farah, Martha J. [_Visual Agnosia_](https://mitpress.mit.edu/9780262062381). 2nd ed. Cambridge, MA: MIT Press, 2004. ISBN: 9780262062381.
+{{% resource_link "ca4ac1db-c8f7-4a60-acdf-f1b210bd26bc" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Farah, Martha J. {{% resource_link "ca4ac1db-c8f7-4a60-acdf-f1b210bd26bc" "_Visual Agnosia_" %}}. 2nd ed. Cambridge, MA: MIT Press, 2004. ISBN: 9780262062381.
 
 ———. _The Cognitive Neuroscience of Vision_. Malden, MA: Blackwell Publishers, 2000. ISBN: 9780631214038.
 
@@ -81,13 +81,13 @@ Grill-Spector, K., and R. Malach. "The Human Visual Cortex." _Annu Rev Neurosci_
 
 or
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262033084) Kanwisher, N. "The Ventral Visual Object Pathway in Humans: Evidence from fMRI." In [_The Visual Neurosciences_](https://mitpress.mit.edu/9780262033084). Edited by Leo M. Chalupa and John S. Werner. Cambridge, MA: MIT Press, 2003. ISBN: 9780262033084.
+{{% resource_link "3187e5be-9cc6-4d25-a010-d643b48d1035" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Kanwisher, N. "The Ventral Visual Object Pathway in Humans: Evidence from fMRI." In {{% resource_link "3187e5be-9cc6-4d25-a010-d643b48d1035" "_The Visual Neurosciences_" %}}. Edited by Leo M. Chalupa and John S. Werner. Cambridge, MA: MIT Press, 2003. ISBN: 9780262033084.
 
-Talbot, Margaret. "[Duped](http://www.newyorker.com/reporting/2007/07/02/070702fa_fact_talbot)." _New Yorker_, July 2007.
+Talbot, Margaret. "{{% resource_link "29ef2edb-5e4d-4426-88b2-88b78e89a819" "Duped" %}}." _New Yorker_, July 2007.
 
 ### Recommended
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262032803) Culham, J. C. "Functional Neuroimaging: Experimental Design and Analysis." In [_Handbook of Functional Neuroimaging of Cognition Book_](https://mitpress.mit.edu/9780262032803). Edited by R. Cabeza and A. Kingstone. Cambridge MA: MIT Press, 2001, pp. 53-82. ISBN: 9780262032803.
+{{% resource_link "e0d71be8-ea03-4235-abe0-ff8c762d7511" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Culham, J. C. "Functional Neuroimaging: Experimental Design and Analysis." In {{% resource_link "e0d71be8-ea03-4235-abe0-ff8c762d7511" "_Handbook of Functional Neuroimaging of Cognition Book_" %}}. Edited by R. Cabeza and A. Kingstone. Cambridge MA: MIT Press, 2001, pp. 53-82. ISBN: 9780262032803.
 
 Haxby, J. V., M. I. Gobbini, M. L. Furey, A. Ishai, J. L. Schouten, and P. Pietrini. "Distributed and Overlapping Representations of Faces and Objects in Ventral Temporal Cortex." _Science_, no. 5539 (September 28, 2001): 293 and 2425.
 
@@ -215,7 +215,7 @@ Visual attention
 
 ### Required
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262072540) Freiwald, W. A., and N. Kanwisher. "Visual Selective Attention: insights from Brain Imaging and Neurophysiology." In [_The Cognitive Neurosciences III_](https://mitpress.mit.edu/9780262072540). Edited by Michael S. Gazzaniga. Cambridge, MA: MIT Press, 2004. ISBN: 9780262072540.
+{{% resource_link "d68ebf1f-c96b-412b-905e-c3d6c8d74227" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Freiwald, W. A., and N. Kanwisher. "Visual Selective Attention: insights from Brain Imaging and Neurophysiology." In {{% resource_link "d68ebf1f-c96b-412b-905e-c3d6c8d74227" "_The Cognitive Neurosciences III_" %}}. Edited by Michael S. Gazzaniga. Cambridge, MA: MIT Press, 2004. ISBN: 9780262072540.
 
 Behrmann, M., J. J. Geng, and S. Shomstein. "Parietal Cortex and Attention." _Curr Opin Neurobiol_ 14, no. 2 (April 2004): 212-7.
 

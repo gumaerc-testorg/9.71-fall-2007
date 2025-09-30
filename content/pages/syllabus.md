@@ -29,13 +29,13 @@ Huettel, Scott A., Allen W. Song, and Gregory McCarthy. _Functional Magnetic Res
 Other Resources
 ---------------
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262062381) Farah, Martha J. [_Visual Agnosia_](https://mitpress.mit.edu/9780262062381). 2nd ed. Cambridge, MA: MIT Press, 2004. ISBN: 9780262062381.
+{{% resource_link "ca4ac1db-c8f7-4a60-acdf-f1b210bd26bc" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Farah, Martha J. {{% resource_link "ca4ac1db-c8f7-4a60-acdf-f1b210bd26bc" "_Visual Agnosia_" %}}. 2nd ed. Cambridge, MA: MIT Press, 2004. ISBN: 9780262062381.
 
 ———. _The Cognitive Neuroscience of Vision_. Malden, MA: Blackwell Publishers, 2000. ISBN: 9780631214038.
 
-[Information About fMRI Methods, fMRI Physics, and Neuroanatomy](http://psychology.uwo.ca/fmri4newbies/)
+{{% resource_link "8661df12-ba3e-46b0-b290-2284529e05fa" "Information About fMRI Methods, fMRI Physics, and Neuroanatomy" %}}
 
-[Useful Slides on fMRI Physics and Methods](http://www.biac.duke.edu/education/courses/fall05/fmri/)
+{{% resource_link "0ecb3345-5704-4ea2-998c-e3875c0f0628" "Useful Slides on fMRI Physics and Methods" %}}
 
 Assignments and Exams
 ---------------------
@@ -168,7 +168,7 @@ How to critique an fMRI paper
 
 2 – 4 page essay due at the beginning of class
 
-(Essay details: Read Talbot, Margaret. "[Duped](http://www.newyorker.com/reporting/2007/07/02/070702fa_fact_talbot)." _New Yorker_, July 2007 and then address whether and how you could test if fMRI can be used as a lie detector in the real world, what conditions would you need to test, could such an experiment actually be run, and how might you do it?)
+(Essay details: Read Talbot, Margaret. "{{% resource_link "29ef2edb-5e4d-4426-88b2-88b78e89a819" "Duped" %}}." _New Yorker_, July 2007 and then address whether and how you could test if fMRI can be used as a lie detector in the real world, what conditions would you need to test, could such an experiment actually be run, and how might you do it?)
 
 
 {{< tdclose >}}
