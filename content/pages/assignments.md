@@ -80,7 +80,7 @@ How to critique an fMRI paper
 
 2 - 4 page essay due at the beginning of class
 
-(Essay details: Read Talbot, Margaret. "[Duped](http://www.newyorker.com/reporting/2007/07/02/070702fa_fact_talbot)." _New Yorker_, July 2007 and then address whether and how you could test if fMRI can be used as a lie detector in the real world, what conditions would you need to test, could such an experiment actually be run, and how might you do it?)
+(Essay details: Read Talbot, Margaret. "{{% resource_link "29ef2edb-5e4d-4426-88b2-88b78e89a819" "Duped" %}}." _New Yorker_, July 2007 and then address whether and how you could test if fMRI can be used as a lie detector in the real world, what conditions would you need to test, could such an experiment actually be run, and how might you do it?)
 
 
 {{< tdclose >}}

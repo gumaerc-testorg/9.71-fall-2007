@@ -65,7 +65,7 @@ Scene perception and the PPA ({{% resource_link 8c84326e-5582-2740-37da-bb541f18
 {{< tdopen >}}
 
 
-Part A: [Visual anatomy](http://www.fmri4newbies.com/retinotopic-and-early-visual-areas)
+Part A: {{% resource_link "4dab2f61-7afe-4d23-a226-ad330593f471" "Visual anatomy" %}}
 
 These slides from the fMRI for Newbies site are an expanded version of those used in the class
 
